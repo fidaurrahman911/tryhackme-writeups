@@ -36,5 +36,5 @@ Commands and concepts reviewed
 3. Start a focused Privilege Escalation study after completing practice machines.
 
  Attachments (in this folder)
-- `01_Linux_Fundamentals_Completion.png`  (TryHackMe completion screenshot)  
+- `Completion.png`  (TryHackMe completion screenshot)  
 
