@@ -1,15 +1,15 @@
 Date: 2025-10-XX
 Author: Fida Ur Rahman
 
-Objective
+##Objective
 
 Complete the TryHackMe Networking Concept module to learn and understand basic networking ideas and common network commands used in cyber security practice.
 
-Summary of what I did
+##Summary of what I did
 
 I completed the full Networking Concept learning module on TryHackMe. The module covered important topics such as the difference between TCP and UDP, common port numbers (for example 22, 80, 443), how to perform basic network scans, and how to check HTTP responses. I read the lesson content carefully, completed the quizzes, and studied the example commands shown in the lab.
 
-Practical commands I reviewed / practiced (in my local Kali environment)
+##Practical commands I  practiced (in my local Kali environment)
 
 While working through the module I learned how to use these common commands and what each command is for. I practiced writing and understanding them so I can run them on lab machines later:
 
@@ -25,7 +25,7 @@ ping <TARGET_IP> — check connectivity and response time.
 
 Note: I reviewed how each command works, what the typical output shows, and how to interpret the results. I will run these commands on lab targets and save outputs/screenshots in future writeups.
 
-Tools used
+##Tools used
 
 TryHackMe learning environment (web).
 
@@ -43,13 +43,13 @@ curl and ss are fast tools to inspect web headers and local listening services w
 
 Understanding the meaning of service versions helps find possible vulnerabilities or next steps.
 
-Outcome
+##Outcome
 
 I completed the TryHackMe Networking Concept module and gained theoretical knowledge of basic networking.
 
 I feel more confident with the list of commands above and know when to use each one in a lab environment.
 
-Next steps
+##Next steps
 
 Practice running the above nmap, ss, and curl commands on a real lab machine and save the outputs to text files.
 
