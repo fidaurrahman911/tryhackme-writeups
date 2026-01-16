@@ -1,4 +1,3 @@
- Linux Fundamentals Part 1 — TryHackMe
 Date: 23-10-2025
 Author:Fida Ur Rahman  
 TryHackMe username: fidarahman
