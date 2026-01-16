@@ -1,0 +1,11 @@
+Nmap 7.95 scan initiated Sun Nov 08 20:05:00 2025
+Nmap scan report for 10.10.245.20
+Host is up (0.10s latency).
+Not shown: 5000 filtered tcp ports (no-response)
+PORT     STATE    SERVICE
+ (All scanned ports in the range 1-5000 returned no open services; filtered/no-response.)
+ Scan timing: -sS (SYN stealth), -Pn (skip host discovery)
+ Command: sudo nmap -p1-5000 -sS 10.10.245.20 -Pn -vv
+ Scan completed in ~1002.00s
+
+Nmap done: 1 IP address (1 host up) scanned in 1002.45 seconds

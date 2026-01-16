@@ -1,0 +1,17 @@
+ Nmap 7.95 scan initiated Sun Nov 08 19:58:40 2025
+Nmap scan report for 10.10.245.20
+Host is up (0.10s latency).
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+
+ NSE: ftp-anon
+| ftp-anon: 
+|   No anonymous FTP login available (either no response or login refused).
+|   Script attempted anonymous login but no directory listing was returned.
+|_  (No useful anonymous FTP content discovered)
+
+ Command: sudo nmap --script=ftp-anon -p 21 10.10.245.20 -vv
+ Note: initial discovery showed no response to regular probes; script run returned no usable FTP data.
+ Scan completed in Xs
+
+Nmap done: 1 IP address (1 host up) scanned in X.XX seconds
