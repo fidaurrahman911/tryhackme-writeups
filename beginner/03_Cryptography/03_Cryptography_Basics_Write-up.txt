@@ -1,0 +1,28 @@
+Date: 2025-10-XX  
+Author: Fida Ur Rahman  
+
+Objective  
+To complete the TryHackMe “Cryptography Basics” module and understand the core ideas behind encryption, decryption, and how cryptography protects data in cybersecurity.  
+
+Summary of what I did  
+I completed the full Cryptography Basics learning module on TryHackMe. I learned how data can be kept secret using encryption techniques, and how information can only be read by authorized users who have the correct key.  
+The lesson explained the difference between symmetric and asymmetric encryption, common algorithms, and how XOR math is used in simple encryption examples. I also reviewed real-world uses of cryptography such as SSL/TLS, hashing, and digital signatures.  
+
+Practical commands / concepts I reviewed (in my Kali environment)  
+- Practiced XOR encryption manually using small binary and ASCII examples to understand bitwise operations.  
+- Reviewed how public and private keys are generated in asymmetric encryption.  
+- Observed examples of Caesar cipher and how shifting letters can encode messages.  
+- Learned how hashing algorithms (like MD5 and SHA256) generate fixed-length fingerprints of data.  
+
+Key takeaways  
+- **Symmetric encryption** uses one shared key for both encryption and decryption (fast but less secure for sharing).  
+- **Asymmetric encryption** uses two keys: a public key for encryption and a private key for decryption (used in secure communication like HTTPS).  
+- XOR is a simple mathematical operation used in many cryptographic functions.  
+- Cryptography ensures confidentiality, integrity, and authentication in modern systems.  
+
+Tools used  
+TryHackMe learning environment (web)  
+Kali Linux terminal for practicing XOR and hashing examples.  
+
+Note  
+This module helped me understand the mathematical and logical foundations of encryption. I will apply this knowledge later when using tools such as GPG, OpenSSL, and Wireshark in future labs.
