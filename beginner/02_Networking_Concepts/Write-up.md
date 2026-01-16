@@ -59,6 +59,6 @@ Create a short practical writeup (with command outputs and screenshots) for the 
 
 Attachments (in folder)
 
-Networking_Concept_Completion.png (TryHackMe completion screenshot)
+Completion.png (TryHackMe completion screenshot)
 
 I will add command output files and screenshots in the next writeup after I run these commands on a lab target.
