@@ -8,4 +8,6 @@ I completed the Nmap room on TryHackMe and saved screenshots:
 - 02_Nmap_scan_5000ports.png (terminal showing SYN scan)
 - 03_Nmap_nse_script_output.png (NSE ftp-anon output screenshot)
 
+      Note: Screenshot are saved in Screenshots Folder
+
 Note: Plain-text outputs for the scans were reconstructed from screenshots and commands, since the original -oN files were not captured during the live lab.
