@@ -1,6 +1,6 @@
 # Search Skills
 
-**Difficulty:** Intermediate
+**Difficulty:** Beginner
 
 **Platform:** TryHackMe
 
